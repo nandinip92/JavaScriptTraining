@@ -1,6 +1,6 @@
 {
+  "type": "module",
   "dependencies": {
-    "node-fetch": "^3.3.2",
-    "prompt-sync": "^4.2.0"
+    "node-fetch": "^3.3.2"
   }
 }
